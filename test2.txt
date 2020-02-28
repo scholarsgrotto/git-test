@@ -1,3 +1,4 @@
+I've added a line here
 This is only a test
 
 Ok, I've added another line.
